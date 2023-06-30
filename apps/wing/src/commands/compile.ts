@@ -1,4 +1,4 @@
-import { promises as fsPromise } from "fs";
+import { promises as fsPromise, readdirSync, existsSync } from "fs";
 import { relative } from "path";
 
 import chalk from "chalk";
@@ -32,7 +32,19 @@ export interface CompileOptions {
  * @param options Compile options.
  * @returns the output directory
  */
-export async function compile(entrypoint: string, options: CompileOptions): Promise<string> {
+export async function compile(entrypoint?: string, options?: CompileOptions{target=wingCompiler.Target.SIM}): Promise<string> {
+  if (!entrypoint) {
+    const wingFiles = readdirSync(".").filter((item) => item.endsWith(".w"));
+    if (wingFiles.length !== 1) {
+      throw new Error("Please specify which file you want to compile");
+    }
+    entrypoint = wingFiles[0];
+  }
+
+  if (!existsSync(entrypoint)) {
+    throw new Error(entrypoint + " doesn't exist");
+  }
+
   try {
     return await wingCompiler.compile(entrypoint, {
       ...options,
