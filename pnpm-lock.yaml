@@ -675,8 +675,8 @@ importers:
         specifier: ^4.18.2
         version: 4.18.2
       get-port:
-        specifier: ^6.1.2
-        version: 6.1.2
+        specifier: ^7.0.0
+        version: 7.0.0
       lodash.uniqby:
         specifier: ^4.7.0
         version: 4.7.0
@@ -12405,7 +12405,7 @@ packages:
     dependencies:
       semver: 7.5.4
       shelljs: 0.8.5
-      typescript: 5.3.0-dev.20230906
+      typescript: 5.3.0-dev.20230907
     dev: true
 
   /dset@3.1.2:
@@ -13937,9 +13937,9 @@ packages:
     engines: {node: '>=8'}
     dev: true
 
-  /get-port@6.1.2:
-    resolution: {integrity: sha512-BrGGraKm2uPqurfGVj/z97/zv8dPleC6x9JBNRTrDNtCkkRF4rPwrQXFgL7+I+q8QSdU4ntLQX2D7KIxSy8nGw==}
-    engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
+  /get-port@7.0.0:
+    resolution: {integrity: sha512-mDHFgApoQd+azgMdwylJrv2DX47ywGq1i5VFJE7fZ0dttNq3iQMfsU4IvEgBHojA3KqEudyu7Vq+oN8kNaNkWw==}
+    engines: {node: '>=16'}
     dev: true
 
   /get-source@2.0.12:
@@ -21452,8 +21452,8 @@ packages:
     engines: {node: '>=14.17'}
     hasBin: true
 
-  /typescript@5.3.0-dev.20230906:
-    resolution: {integrity: sha512-7dCmQgfQ4i38daoPCCert+rM6gLxBpxRdjncJkHkJV4CWvNZsRX+RVTusojkqGAtW9vqB0+/8iDH6CZ0PDxghg==}
+  /typescript@5.3.0-dev.20230907:
+    resolution: {integrity: sha512-8yegC0GyY5ug9184BxLq8fLDt08+g8jRfut0QSraLFoT13c39Z6fVoviDEeqJgbnIGVxzAEiNQLUslpKYCyUsg==}
     engines: {node: '>=14.17'}
     hasBin: true
     dev: true
