@@ -11,7 +11,7 @@
     "eslint": "eslint --ext .js,.cjs,.ts,.cts,.mts,.tsx --no-error-on-unmatched-pattern . --fix"
   },
   "dependencies": {
-    "@cloudy-ts/eslint-plugin": "^0.0.260",
+    "@cloudy-ts/eslint-plugin": "^0.0.311",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
     "eslint-config-prettier": "^8.10.0",
