@@ -46,7 +46,7 @@
     "tsup": "^6.7.0",
     "tsx": "^3.12.8",
     "typescript": "^5.2.2",
-    "vite": "^4.4.9"
+    "vite": "^5.0.12"
   },
   "volta": {
     "extends": "../../../../package.json"
