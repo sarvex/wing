@@ -84,31 +84,31 @@ importers:
         specifier: ^16
         version: 16.0.5
       '@typescript-eslint/eslint-plugin':
-        specifier: ^5
+        specifier: 5.62.0
         version: 5.62.0(@typescript-eslint/parser@5.62.0)(eslint@8.48.0)(typescript@4.9.5)
       '@typescript-eslint/parser':
-        specifier: ^5
+        specifier: 5.62.0
         version: 5.62.0(eslint@8.48.0)(typescript@4.9.5)
       constructs:
         specifier: ^10.2.70
         version: 10.2.70
       eslint:
-        specifier: ^8
+        specifier: 8.48.0
         version: 8.48.0
       eslint-config-prettier:
-        specifier: ^8.10.0
+        specifier: 8.10.0
         version: 8.10.0(eslint@8.48.0)
       eslint-import-resolver-node:
-        specifier: ^0.3.9
+        specifier: 0.3.9
         version: 0.3.9
       eslint-import-resolver-typescript:
-        specifier: ^3.6.0
+        specifier: 3.6.0
         version: 3.6.0(@typescript-eslint/parser@5.62.0)(eslint-import-resolver-node@0.3.9)(eslint-plugin-import@2.28.1)(eslint@8.48.0)
       eslint-plugin-import:
-        specifier: ^2.28.1
+        specifier: 2.28.1
         version: 2.28.1(@typescript-eslint/parser@5.62.0)(eslint-import-resolver-typescript@3.6.0)(eslint@8.48.0)
       eslint-plugin-prettier:
-        specifier: ^4.2.1
+        specifier: 4.2.1
         version: 4.2.1(eslint-config-prettier@8.10.0)(eslint@8.48.0)(prettier@2.8.8)
       jest:
         specifier: ^27.5.1
@@ -123,7 +123,7 @@ importers:
         specifier: ^16
         version: 16.13.2
       prettier:
-        specifier: ^2.8.8
+        specifier: 2.8.8
         version: 2.8.8
       projen:
         specifier: ^0.71.163
@@ -196,10 +196,10 @@ importers:
         specifier: ^8.5.5
         version: 8.5.5
       '@typescript-eslint/eslint-plugin':
-        specifier: ^5
+        specifier: 5.62.0
         version: 5.62.0(@typescript-eslint/parser@5.62.0)(eslint@8.48.0)(typescript@4.9.5)
       '@typescript-eslint/parser':
-        specifier: ^5
+        specifier: 5.62.0
         version: 5.62.0(eslint@8.48.0)(typescript@4.9.5)
       '@vscode/vsce':
         specifier: ^2.21.0
@@ -211,22 +211,22 @@ importers:
         specifier: workspace:^
         version: link:../wing-console/console/server
       eslint:
-        specifier: ^8
+        specifier: 8.48.0
         version: 8.48.0
       eslint-config-prettier:
-        specifier: ^8.10.0
+        specifier: 8.10.0
         version: 8.10.0(eslint@8.48.0)
       eslint-import-resolver-node:
-        specifier: ^0.3.9
+        specifier: 0.3.9
         version: 0.3.9
       eslint-import-resolver-typescript:
-        specifier: ^3.6.0
+        specifier: 3.6.0
         version: 3.6.0(@typescript-eslint/parser@5.62.0)(eslint-import-resolver-node@0.3.9)(eslint-plugin-import@2.28.1)(eslint@8.48.0)
       eslint-plugin-import:
-        specifier: ^2.28.1
+        specifier: 2.28.1
         version: 2.28.1(@typescript-eslint/parser@5.62.0)(eslint-import-resolver-typescript@3.6.0)(eslint@8.48.0)
       eslint-plugin-prettier:
-        specifier: ^4.2.1
+        specifier: 4.2.1
         version: 4.2.1(eslint-config-prettier@8.10.0)(eslint@8.48.0)(prettier@2.8.8)
       node-fetch:
         specifier: ^2.6.7
@@ -238,7 +238,7 @@ importers:
         specifier: ^8.4.2
         version: 8.4.2
       prettier:
-        specifier: ^2.8.8
+        specifier: 2.8.8
         version: 2.8.8
       projen:
         specifier: ^0.71.163
@@ -372,28 +372,28 @@ importers:
         specifier: ^16.0.5
         version: 16.0.5
       '@typescript-eslint/eslint-plugin':
-        specifier: ^5
+        specifier: 5.62.0
         version: 5.62.0(@typescript-eslint/parser@5.62.0)(eslint@8.48.0)(typescript@4.9.5)
       '@typescript-eslint/parser':
-        specifier: ^5
+        specifier: 5.62.0
         version: 5.62.0(eslint@8.48.0)(typescript@4.9.5)
       eslint:
-        specifier: ^8
+        specifier: 8.48.0
         version: 8.48.0
       eslint-config-prettier:
-        specifier: ^8.10.0
+        specifier: 8.10.0
         version: 8.10.0(eslint@8.48.0)
       eslint-import-resolver-node:
-        specifier: ^0.3.9
+        specifier: 0.3.9
         version: 0.3.9
       eslint-import-resolver-typescript:
-        specifier: ^3.6.0
+        specifier: 3.6.0
         version: 3.6.0(@typescript-eslint/parser@5.62.0)(eslint-import-resolver-node@0.3.9)(eslint-plugin-import@2.28.1)(eslint@8.48.0)
       eslint-plugin-import:
-        specifier: ^2.28.1
+        specifier: 2.28.1
         version: 2.28.1(@typescript-eslint/parser@5.62.0)(eslint-import-resolver-typescript@3.6.0)(eslint@8.48.0)
       eslint-plugin-prettier:
-        specifier: ^4.2.1
+        specifier: 4.2.1
         version: 4.2.1(eslint-config-prettier@8.10.0)(eslint@8.48.0)(prettier@2.8.8)
       jest:
         specifier: ^29.6.4
@@ -405,7 +405,7 @@ importers:
         specifier: ^16
         version: 16.13.2
       prettier:
-        specifier: ^2.8.8
+        specifier: 2.8.8
         version: 2.8.8
       projen:
         specifier: ^0.71.163
@@ -478,7 +478,7 @@ importers:
         specifier: ^11.0.2
         version: 11.0.2
       eslint:
-        specifier: ^8.48.0
+        specifier: 8.48.0
         version: 8.48.0
       nanoid:
         specifier: ^4.0.2
@@ -578,7 +578,7 @@ importers:
         specifier: workspace:^
         version: link:../../../../tools/bump-pack
       eslint:
-        specifier: ^8.48.0
+        specifier: 8.48.0
         version: 8.48.0
       happy-dom:
         specifier: ^9.20.3
@@ -669,7 +669,7 @@ importers:
         specifier: ^0.1.7
         version: 0.1.7(esbuild@0.15.18)
       eslint:
-        specifier: ^8.48.0
+        specifier: 8.48.0
         version: 8.48.0
       express:
         specifier: ^4.18.2
@@ -844,7 +844,7 @@ importers:
         specifier: workspace:^
         version: link:../../../../tools/bump-pack
       eslint:
-        specifier: ^8.48.0
+        specifier: 8.48.0
         version: 8.48.0
       react-markdown:
         specifier: ^8.0.7
@@ -919,44 +919,44 @@ importers:
         specifier: ^0.0.260
         version: 0.0.260(eslint@8.48.0)
       '@typescript-eslint/eslint-plugin':
-        specifier: ^5.62.0
+        specifier: 5.62.0
         version: 5.62.0(@typescript-eslint/parser@5.62.0)(eslint@8.48.0)(typescript@5.2.2)
       '@typescript-eslint/parser':
-        specifier: ^5.62.0
+        specifier: 5.62.0
         version: 5.62.0(eslint@8.48.0)(typescript@5.2.2)
       eslint-config-prettier:
-        specifier: ^8.10.0
+        specifier: 8.10.0
         version: 8.10.0(eslint@8.48.0)
       eslint-import-resolver-node:
-        specifier: ^0.3.9
+        specifier: 0.3.9
         version: 0.3.9
       eslint-import-resolver-typescript:
-        specifier: ^3.6.0
+        specifier: 3.6.0
         version: 3.6.0(@typescript-eslint/parser@5.62.0)(eslint-import-resolver-node@0.3.9)(eslint-plugin-import@2.28.1)(eslint@8.48.0)
       eslint-plugin-import:
-        specifier: ^2.28.1
+        specifier: 2.28.1
         version: 2.28.1(@typescript-eslint/parser@5.62.0)(eslint-import-resolver-typescript@3.6.0)(eslint@8.48.0)
       eslint-plugin-jsx-a11y:
-        specifier: ^6.7.1
+        specifier: 6.7.1
         version: 6.7.1(eslint@8.48.0)
       eslint-plugin-prettier:
-        specifier: ^4.2.1
+        specifier: 4.2.1
         version: 4.2.1(eslint-config-prettier@8.10.0)(eslint@8.48.0)(prettier@2.8.8)
       eslint-plugin-react:
-        specifier: ^7.33.2
+        specifier: 7.33.2
         version: 7.33.2(eslint@8.48.0)
       eslint-plugin-react-hooks:
-        specifier: ^4.6.0
+        specifier: 4.6.0
         version: 4.6.0(eslint@8.48.0)
       eslint-plugin-unicorn:
-        specifier: ^47.0.0
+        specifier: 47.0.0
         version: 47.0.0(eslint@8.48.0)
     devDependencies:
       eslint:
-        specifier: ^8.48.0
+        specifier: 8.48.0
         version: 8.48.0
       prettier:
-        specifier: ^2.8.8
+        specifier: 2.8.8
         version: 2.8.8
       typescript:
         specifier: ^5.2.2
@@ -1200,10 +1200,10 @@ importers:
         specifier: ^9.0.3
         version: 9.0.3
       '@typescript-eslint/eslint-plugin':
-        specifier: ^5
+        specifier: 5.62.0
         version: 5.62.0(@typescript-eslint/parser@5.62.0)(eslint@8.48.0)(typescript@4.9.5)
       '@typescript-eslint/parser':
-        specifier: ^5
+        specifier: 5.62.0
         version: 5.62.0(eslint@8.48.0)(typescript@4.9.5)
       '@vitest/coverage-v8':
         specifier: ^0.32.4
@@ -1224,25 +1224,25 @@ importers:
         specifier: 0.17.0
         version: 0.17.0(ink@3.2.0)(react@17.0.2)
       eslint:
-        specifier: ^8
+        specifier: 8.48.0
         version: 8.48.0
       eslint-config-prettier:
-        specifier: ^8.10.0
+        specifier: 8.10.0
         version: 8.10.0(eslint@8.48.0)
       eslint-import-resolver-node:
-        specifier: ^0.3.9
+        specifier: 0.3.9
         version: 0.3.9
       eslint-import-resolver-typescript:
-        specifier: ^3.6.0
+        specifier: 3.6.0
         version: 3.6.0(@typescript-eslint/parser@5.62.0)(eslint-import-resolver-node@0.3.9)(eslint-plugin-import@2.28.1)(eslint@8.48.0)
       eslint-plugin-import:
-        specifier: ^2.28.1
+        specifier: 2.28.1
         version: 2.28.1(@typescript-eslint/parser@5.62.0)(eslint-import-resolver-typescript@3.6.0)(eslint@8.48.0)
       eslint-plugin-prettier:
-        specifier: ^4.2.1
+        specifier: 4.2.1
         version: 4.2.1(eslint-config-prettier@8.10.0)(eslint@8.48.0)(prettier@2.8.8)
       eslint-plugin-sort-exports:
-        specifier: ^0.8.0
+        specifier: 0.8.0
         version: 0.8.0(eslint@8.48.0)
       fs-extra:
         specifier: ^10.1.0
@@ -1263,7 +1263,7 @@ importers:
         specifier: ^16
         version: 16.13.2
       prettier:
-        specifier: ^2.8.8
+        specifier: 2.8.8
         version: 2.8.8
       projen:
         specifier: ^0.71.163
@@ -12129,6 +12129,7 @@ packages:
   /deep-extend@0.6.0:
     resolution: {integrity: sha512-LOHxIOaPYdHlJRtCQfDIVZtfw/ufM8+rVj649RIHzcm/vGwQRXFt6OPqIFWsm2XEMrNIEtWR64sY1LEKD2vAOA==}
     engines: {node: '>=4.0.0'}
+    requiresBuild: true
     dev: true
 
   /deep-is@0.1.4:
@@ -12405,7 +12406,7 @@ packages:
     dependencies:
       semver: 7.5.4
       shelljs: 0.8.5
-      typescript: 5.3.0-dev.20230906
+      typescript: 5.4.0-dev.20240201
     dev: true
 
   /dset@3.1.2:
@@ -13376,6 +13377,7 @@ packages:
   /expand-template@2.0.3:
     resolution: {integrity: sha512-XYfuKMvj4O35f/pOXLObndIRvyQ+/+6AhODh+OKWj9S9498pHHn/IMszH+gt0fBCRWMNfk1ZSp5x3AifmnI2vg==}
     engines: {node: '>=6'}
+    requiresBuild: true
     dev: true
 
   /expect@27.5.1:
@@ -14033,6 +14035,7 @@ packages:
 
   /github-from-package@0.0.0:
     resolution: {integrity: sha512-SyHy3T1v2NUXn29OsWdxmK6RwHD+vkj3v8en8AOBZ1wBQ/hCAQ5bAQTD02kW4W9tUp/3Qh6J8r9EvntiyCmOOw==}
+    requiresBuild: true
     dev: true
 
   /github-slugger@1.5.0:
@@ -17388,6 +17391,7 @@ packages:
   /mimic-response@3.1.0:
     resolution: {integrity: sha512-z0yWI+4FDrrweS8Zmt4Ej5HdJmky15+L2e6Wgn3+iK5fWzb6T3fhNFq2+MeTRb064c6Wr4N/wv0DzQTjNzHNGQ==}
     engines: {node: '>=10'}
+    requiresBuild: true
     dev: true
 
   /mimic-response@4.0.0:
@@ -17582,6 +17586,7 @@ packages:
 
   /napi-build-utils@1.0.2:
     resolution: {integrity: sha512-ONmRUqK7zj7DWX0D9ADe03wbwOBZxNAfF20PlGfCWQcD3+/MakShIHrMqx9YwPTfxDdF1zLeL+RGZiR9kGMLdg==}
+    requiresBuild: true
     dev: true
 
   /natural-compare-lite@1.4.0:
@@ -17628,6 +17633,7 @@ packages:
   /node-abi@3.47.0:
     resolution: {integrity: sha512-2s6B2CWZM//kPgwnuI0KrYwNjfdByE25zvAaEpq9IH4zcNsarH8Ihu/UuX6XMPEogDAxkuUFeZn60pXNHAqn3A==}
     engines: {node: '>=10'}
+    requiresBuild: true
     dependencies:
       semver: 7.5.4
     dev: true
@@ -19991,10 +19997,12 @@ packages:
 
   /simple-concat@1.0.1:
     resolution: {integrity: sha512-cSFtAPtRhljv69IK0hTVZQ+OfE9nePi/rtJmw5UjHeVyVroEqJXP1sFztKUy1qU+xvz3u/sfYJLa947b7nAN2Q==}
+    requiresBuild: true
     dev: true
 
   /simple-get@4.0.1:
     resolution: {integrity: sha512-brv7p5WgH0jmQJr1ZDDfKDOSeWWg+OVypG99A/5vYGPqJ6pxiaHLy8nxtFjBA7oMa01ebA9gfh1uMCFqOuXxvA==}
+    requiresBuild: true
     dependencies:
       decompress-response: 6.0.0
       once: 1.4.0
@@ -20417,6 +20425,7 @@ packages:
   /strip-json-comments@2.0.1:
     resolution: {integrity: sha512-4gB8na07fecVVkOI6Rs4e7T6NOTki5EmL7TUduTs6bu3EdnSycntVJ4re8kgZA+wx9IueI2Y11bfbgwtzuE0KQ==}
     engines: {node: '>=0.10.0'}
+    requiresBuild: true
     dev: true
 
   /strip-json-comments@3.1.1:
@@ -21452,8 +21461,8 @@ packages:
     engines: {node: '>=14.17'}
     hasBin: true
 
-  /typescript@5.3.0-dev.20230906:
-    resolution: {integrity: sha512-7dCmQgfQ4i38daoPCCert+rM6gLxBpxRdjncJkHkJV4CWvNZsRX+RVTusojkqGAtW9vqB0+/8iDH6CZ0PDxghg==}
+  /typescript@5.4.0-dev.20240201:
+    resolution: {integrity: sha512-KyjAVgMfyIHhjbaYTeTElvoEKM4teDYYATdzsdcxvogVcaDuH0I0JbiwFUe6bIU5FnWxlbxc7rfGyh7aNwpnow==}
     engines: {node: '>=14.17'}
     hasBin: true
     dev: true

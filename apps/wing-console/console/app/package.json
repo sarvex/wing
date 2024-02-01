@@ -37,7 +37,7 @@
     "autoprefixer": "^10.4.15",
     "bump-pack": "workspace:^",
     "conf": "^11.0.2",
-    "eslint": "^8.48.0",
+    "eslint": "8.48.0",
     "nanoid": "^4.0.2",
     "open": "^9.1.0",
     "react": "^18.2.0",
