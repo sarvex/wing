@@ -916,8 +916,8 @@ importers:
   apps/wing-console/tools/eslint-plugin:
     dependencies:
       '@cloudy-ts/eslint-plugin':
-        specifier: ^0.0.260
-        version: 0.0.260(eslint@8.48.0)
+        specifier: ^0.0.391
+        version: 0.0.391(eslint@8.48.0)
       '@typescript-eslint/eslint-plugin':
         specifier: ^5.62.0
         version: 5.62.0(@typescript-eslint/parser@5.62.0)(eslint@8.48.0)(typescript@5.2.2)
@@ -4235,11 +4235,11 @@ packages:
       - supports-color
     dev: true
 
-  /@cloudy-ts/eslint-plugin@0.0.260(eslint@8.48.0):
-    resolution: {integrity: sha512-4mOL06xDWMyUz6OB0chNOwb3zhmDrXpHL7e7ZkCp5ysUQ2EEG4ms1Qg0vKBatKTN3LkYBeVqEqJRVGGg7/icSQ==}
-    engines: {node: '>= 14.18.0'}
+  /@cloudy-ts/eslint-plugin@0.0.391(eslint@8.48.0):
+    resolution: {integrity: sha512-X80Fe4jZIvWNoZjqC0j3CzStv2R2N+jIZtJ6Xk5+S2R0TDTmbkjkt9r6SC4QEVRpQuF5B/OJ23XXOqcZRWwrvg==}
+    engines: {node: '>= 18.16.0'}
     peerDependencies:
-      eslint: ^8.36.0
+      eslint: ^8.56.0
     dependencies:
       eslint: 8.48.0
     dev: false
@@ -12405,7 +12405,7 @@ packages:
     dependencies:
       semver: 7.5.4
       shelljs: 0.8.5
-      typescript: 5.3.0-dev.20230906
+      typescript: 5.4.0-dev.20240212
     dev: true
 
   /dset@3.1.2:
@@ -21452,8 +21452,8 @@ packages:
     engines: {node: '>=14.17'}
     hasBin: true
 
-  /typescript@5.3.0-dev.20230906:
-    resolution: {integrity: sha512-7dCmQgfQ4i38daoPCCert+rM6gLxBpxRdjncJkHkJV4CWvNZsRX+RVTusojkqGAtW9vqB0+/8iDH6CZ0PDxghg==}
+  /typescript@5.4.0-dev.20240212:
+    resolution: {integrity: sha512-I9h51QaFIfbGuQnf8TvdUSQpBUMADbRPVUS6Gd8kzHpFYwEjKxgmZbVdyOrtlk1TFbIhc7EqzebDCOcGgNyBcQ==}
     engines: {node: '>=14.17'}
     hasBin: true
     dev: true
